@@ -1,0 +1,15 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+ASDF
+It makes life easier
+
+
+Manually choosing when to commit gives the programmer the choice of logically allocating commit
+situations
+
+because its a development based code repo that knows logical grouping of files
+
+Git log and Git diff gives you a visual view of the history of files and the changes made to it
+
+
+Q. What happens when you initialize a repository? Why do you need to do it?
+A. It creates a .git file with no commits. We do it to initiate or create a repo.
